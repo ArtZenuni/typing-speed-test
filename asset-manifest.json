@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ArtZenuni/typing-speed-test/static/css/main.3bcda0e0.css",
-    "main.js": "/ArtZenuni/typing-speed-test/static/js/main.9f227721.js",
-    "static/js/453.6af42e17.chunk.js": "/ArtZenuni/typing-speed-test/static/js/453.6af42e17.chunk.js",
-    "index.html": "/ArtZenuni/typing-speed-test/index.html",
-    "main.3bcda0e0.css.map": "/ArtZenuni/typing-speed-test/static/css/main.3bcda0e0.css.map",
-    "main.9f227721.js.map": "/ArtZenuni/typing-speed-test/static/js/main.9f227721.js.map",
-    "453.6af42e17.chunk.js.map": "/ArtZenuni/typing-speed-test/static/js/453.6af42e17.chunk.js.map"
+    "main.css": "/typing-speed-test/static/css/main.3bcda0e0.css",
+    "main.js": "/typing-speed-test/static/js/main.592f442b.js",
+    "static/js/453.6af42e17.chunk.js": "/typing-speed-test/static/js/453.6af42e17.chunk.js",
+    "index.html": "/typing-speed-test/index.html",
+    "main.3bcda0e0.css.map": "/typing-speed-test/static/css/main.3bcda0e0.css.map",
+    "main.592f442b.js.map": "/typing-speed-test/static/js/main.592f442b.js.map",
+    "453.6af42e17.chunk.js.map": "/typing-speed-test/static/js/453.6af42e17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bcda0e0.css",
-    "static/js/main.9f227721.js"
+    "static/js/main.592f442b.js"
   ]
 }
